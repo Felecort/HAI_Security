@@ -1,0 +1,9 @@
+
+.venv/
+.idea/
+src/catboost_info/
+data/*
+
+!data/prepared_data
+data/prepared_data/train_1.pkl
+data/prepared_data/train_2.pkl
