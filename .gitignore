@@ -1,6 +1,7 @@
 
 .venv/
 .idea/
+.DS_store
 src/catboost_info/
 data/*
 
