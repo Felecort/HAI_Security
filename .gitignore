@@ -1,8 +1,11 @@
 
 .venv/
+.venv_kan/
 .idea/
 .DS_store
 src/catboost_info/
+src/KAN/figures/
+src/KAN/model
 data/*
 
 !data/prepared_data
